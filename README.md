@@ -8,10 +8,12 @@ MongoDB Playground / mongosh
 JavaScript (Mongo Shell syntax)
 
 📂 Database Structure
+
 Database - ecommerce
 Collections - products,contacts,orders
 
 📊 Sample Collections
+
 Products- Name,Price,Category,Stock,Ratings,Tags,CreatedAt
 
 Contacts - Name,Message,Phone,CreatedAt
